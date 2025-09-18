@@ -1,7 +1,9 @@
 #!/bin/bash
-name=vincent
-if [ "$name" -me vincent ];then
-  echo "age is 22"
-else
-  echo "hobby is sportball"
-fi
+  echo "enter your name"
+read name
+  echo "enter your age"
+read age
+  echo "enter your hobby"
+  echo "name: $name"
+  echo "age: $age"
+  echo "hobby: $hobby"
