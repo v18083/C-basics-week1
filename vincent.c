@@ -1,7 +1,10 @@
 #!/bin/bash
-#ask user to enter name
-  echo "vincent"
-#ask user to enter age
-  echo "22"
-#ask user to enter hobby
-  echo "football"
+  echo "enter your name"
+read name
+  echo "enter your age"
+read age
+  echo "enter your hobby"
+read hobby
+  echo "name: $vincent"
+  echo "age: $22"
+  echo "hobby: football"
