@@ -4,6 +4,7 @@ read name
   echo "enter your age"
 read age
   echo "enter your hobby"
+read hobby
   echo "name: $name"
   echo "age: $age"
   echo "hobby: $hobby"
