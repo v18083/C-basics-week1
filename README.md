@@ -1,1 +1,1 @@
-my first project
+A banking system management that allows users to create an account, login, deposit, withdraw, check balance and transfer money from one bank account to another. It automatic create an account number for the users.
